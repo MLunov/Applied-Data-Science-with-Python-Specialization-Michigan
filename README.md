@@ -8,5 +8,5 @@ Specialization consists of 5 courses:
 1. [Introduction to Data Science in Python](https://github.com/MLunov/Applied-Data-Science-with-Python-Specialization-Michigan/tree/master/1-5%20Introduction%20to%20Data%20Science%20in%20Python)
 2. [Applied Plotting, Charting & Data Representation in Python](https://github.com/MLunov/Applied-Data-Science-with-Python-Specialization-Michigan/tree/master/2-5%20Applied%20Plotting%2C%20Charting%20%26%20Data%20Representation%20in%20Python)
 3. [Applied Machine Learning in Python](https://github.com/MLunov/Applied-Data-Science-with-Python-Specialization-Michigan/tree/master/3-5%20Applied%20Machine%20Learning%20in%20Python)
-4. Applied Text Mining in Python[]()
+4. [Applied Text Mining in Python](https://github.com/MLunov/Applied-Data-Science-with-Python-Specialization-Michigan/tree/master/4-5%20Applied%20Text%20Mining%20in%20Python)
 5. Applied Social Network Analysis in Python[]()
